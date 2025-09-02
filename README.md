@@ -185,8 +185,6 @@ Built with [LlamaIndex](https://github.com/run-llama/llama_index) property‑gra
 
 ## 📄 License
 MIT License
-
-Copyright (c) 2025 Siddharth Pal
 ---
 
 ### Badges (copy/paste if you want)
