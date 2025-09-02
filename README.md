@@ -184,8 +184,9 @@ Built with [LlamaIndex](https://github.com/run-llama/llama_index) property‑gra
 
 
 ## 📄 License
-Add a license—MIT is a good default for demos.
+MIT License
 
+Copyright (c) 2025 Siddharth Pal
 ---
 
 ### Badges (copy/paste if you want)
